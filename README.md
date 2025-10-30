@@ -6,17 +6,18 @@
 
 <p align="left"> <a href="https://twitter.com/tanishqmohod06" target="blank"><img src="https://img.shields.io/twitter/follow/tanishqmohod06?logo=twitter&style=for-the-badge" alt="tanishqmohod06" /></a> </p>
 
-- 🔭 I’m currently working on **PDF Summarizer SAAS**
+- 🔭 I’m currently working on **Skill Quest**
+- My best Project so far **AI PDF Summariser **
 
 - 🌱 I’m currently learning **GenAI**
 
 - 👯 I’m looking to collaborate on **My new SaaS**
 
-- 📝 I regularly write articles on [https://tanishqcoding.hashnode.dev/](https://tanishqcoding.hashnode.dev/)
+- 📝 Find me on [https://www.linkedin.com/in/tanishq-mohod/](https://www.linkedin.com/in/tanishq-mohod/)
 
 - 💬 Ask me about **JS, ReactJS, NextJS**
 
-- 📫 How to reach me **tanishqmohod22121001@gcoeara.ac.in**
+- 📫 How to reach me **tanishqmohod67@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
