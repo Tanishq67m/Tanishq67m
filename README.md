@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanishqmohod06" target="blank"><img src="https://img.shields.io/twitter/follow/tanishqmohod06?logo=twitter&style=for-the-badge" alt="tanishqmohod06" /></a> </p>
 
-- 🔭 I’m currently working on **Skill Quest**
+- 🔭 I’m currently working on **VisionAPI**
 - My best Project so far **AI PDF Summariser**
 
 - 🌱 I’m currently learning **GenAI**
